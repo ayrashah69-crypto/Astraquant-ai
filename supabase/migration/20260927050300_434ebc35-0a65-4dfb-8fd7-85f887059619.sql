@@ -1,0 +1,1 @@
+alter table public.trades add column equity_after numeric;
